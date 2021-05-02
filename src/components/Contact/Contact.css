@@ -1,0 +1,11 @@
+.contact-container {
+  display: block;
+  margin: auto;
+  width: 250px;
+  text-align: center;
+  flex-direction: column;
+}
+
+.input-field {
+  margin: 2px;
+}
